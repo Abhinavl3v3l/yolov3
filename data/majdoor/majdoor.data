@@ -1,0 +1,4 @@
+classes=4
+train=data/majdoor/train.txt
+valid=data/majdoor/test.txt
+names=data/majdoor/classes.txt
